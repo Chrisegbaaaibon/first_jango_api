@@ -1,0 +1,7 @@
+.pyc
+.log
+_pycache__
+db.sqlite3
+media
+.idea
+migrations
