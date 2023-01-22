@@ -14,6 +14,24 @@ posts = [
             'title': 'Introduction to Django',
             'content': 'Django is a python framework for building web api and stuffs like that blah blah blah',
             'date_posted': 'August 31, 2023'
+      },
+      {
+            'author': 'Ghostcod3r',
+            'title': 'Introduction to Django',
+            'content': 'Django is a python framework for building web api and stuffs like that blah blah blah',
+            'date_posted': 'August 31, 2023'
+      },
+      {
+            'author': 'Ghostcod3r',
+            'title': 'Introduction to Django',
+            'content': 'Django is a python framework for building web api and stuffs like that blah blah blah',
+            'date_posted': 'August 31, 2023'
+      },
+      {
+            'author': 'Ghostcod3r',
+            'title': 'Introduction to Django',
+            'content': 'Django is a python framework for building web api and stuffs like that blah blah blah',
+            'date_posted': 'August 31, 2023'
       }
 ]
 
